@@ -1,0 +1,17 @@
+{
+  "name": "destructuring-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orh",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/benchmark": "^1.0.30"
+  }
+}
